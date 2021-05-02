@@ -1,4 +1,4 @@
-# resources
+# Resources
 Official Fract resources.
 
 ## Logo - PNG
